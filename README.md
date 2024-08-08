@@ -1,4 +1,10 @@
 # BCGX-Data-Science-Internship
+
+   C:\Users\berli\OneDrive\Desktop\Internship\BCGX\bcg-primary.jpg
+
+
+
+
 **************************
 **Backgraound Information**
 **************************
