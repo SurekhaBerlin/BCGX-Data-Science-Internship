@@ -1,7 +1,8 @@
 # BCGX-Data-Science-Internship
 
-   C:\Users\berli\OneDrive\Desktop\Internship\BCGX\bcg-primary.jpg
 
+
+![bcg-primary](https://github.com/user-attachments/assets/90a57c07-fbae-400e-8504-b5d2c9f979fd)
 
 
 
